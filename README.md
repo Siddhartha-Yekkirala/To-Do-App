@@ -21,24 +21,10 @@ This app helps users manage daily tasks with a simple and elegant UI featuring a
 - [Font Awesome](https://fontawesome.com/) (icons)  
 - [Canvas Confetti](https://www.npmjs.com/package/canvas-confetti) (celebration effect)  
 
----
-
-## 📂 Project Structure
-```bash
-.
-├── index.html      # Main HTML file
-├── style.css       # Styling file
-├── script.js       # JavaScript logic
-└── README.md       # Project documentation
-
-📸 Screenshots
-
 🔹 Main To-Do App UI
 ![App Screenshot](https://ibb.co/kgT2GrFq)
 ![App Screenshot](https://ibb.co/pBTxXtKJ)
 ![App Screenshot](https://ibb.co/MDsdJ8nY)
-
-⸻
 
 📌 Future Improvements
 	•	Save tasks in Local Storage so they persist after refresh
