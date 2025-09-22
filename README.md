@@ -12,8 +12,9 @@ This app helps users manage daily tasks with a simple and elegant UI featuring a
 - **Confetti celebration** when all tasks are done 🎉  
 - Beautiful **gradient background** with stars and shooting stars ✨  
 
----
-![image alt](<a href="https://ibb.co/kgT2GrFq"><img src="https://i.ibb.co/QFVvJqGY/Screenshot-2025-09-22-at-7-23-50-PM.png" alt="Screenshot-2025-09-22-at-7-23-50-PM" border="0"></a>)
+<a href="https://ibb.co/kgT2GrFq"><img src="https://i.ibb.co/QFVvJqGY/Screenshot-2025-09-22-at-7-23-50-PM.png" alt="Screenshot-2025-09-22-at-7-23-50-PM" border="0"></a>
+
+
 ## 🛠️ Tech Stack
 - **HTML5**  
 - **CSS3**  
