@@ -27,6 +27,8 @@ This app helps users manage daily tasks with a simple and elegant UI featuring a
 	•	Add categories / filters (Completed, Pending, All)
 	•	Dark / Light theme toggle
 
+ <a href="https://ibb.co/pBTxXtKJ"><img src="https://i.ibb.co/zTgrfy2G/Screenshot-2025-09-22-at-7-24-16-PM.png" alt="Screenshot-2025-09-22-at-7-24-16-PM" border="0"></a>
+
 ⸻
 
 💡 Learning Outcome
@@ -35,6 +37,8 @@ This project helped me practice:
 	•	DOM manipulation in JavaScript
 	•	Creating smooth UI/UX with glassmorphism and animations
 	•	Handling user interactions dynamically
+
+ <a href="https://ibb.co/MDsdJ8nY"><img src="https://i.ibb.co/4Z7k0sW6/Screenshot-2025-09-22-at-7-24-30-PM.png" alt="Screenshot-2025-09-22-at-7-24-30-PM" border="0"></a>
 
  
 ## 📂 Project Structure
