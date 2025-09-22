@@ -13,7 +13,7 @@ This app helps users manage daily tasks with a simple and elegant UI featuring a
 - Beautiful **gradient background** with stars and shooting stars ✨  
 
 ---
-
+![image alt]([https://lazy-red-lol8auxtiu.edgeone.app/Screenshot%202025-09-13%20at%207.01.05 PM.png](https://ibb.co/kgT2GrFq))
 ## 🛠️ Tech Stack
 - **HTML5**  
 - **CSS3**  
